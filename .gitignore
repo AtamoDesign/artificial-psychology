@@ -1,0 +1,7 @@
+__pycache__/
+*.egg-info/
+.venv/
+.env
+*.jsonl
+logs/
+data/raw/
